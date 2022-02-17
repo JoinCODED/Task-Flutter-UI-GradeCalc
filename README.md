@@ -1,5 +1,7 @@
 # Grade Calculator 〽️
 
+![result](https://user-images.githubusercontent.com/84308096/154513932-e7f4a10a-f76b-43ed-b54f-c1ebbfe02e4f.png)
+
 Design an application similar to the above application.
 
 ## Instructions
