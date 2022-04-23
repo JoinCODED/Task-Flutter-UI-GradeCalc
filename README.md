@@ -7,7 +7,7 @@ Design an application similar to the above application.
 💡 hint:
 [Border](https://api.flutter.dev/flutter/painting/Border-class.html)
 
-## Instructions
+## 🍋 Instructions
 
 1. Create your application and set it up.
 2. Pass a `SafeArea` widget to the `Scaffold` widget.
@@ -28,6 +28,6 @@ But how to use hex colors in flutter? Google it!
 12. Create a variable and store the style you just created in it and apply it to each other `Text` widget.
 13. Change your **MAIN** `Column` `mainAxisAlignment` and `crossAxisAlignment`.
 
-### 🍋 One more variable!
+### 🤼‍♂️ One more variable!
 
 Replace the color `#7c7ded` that we used multiple times with a variable that stores that color.
