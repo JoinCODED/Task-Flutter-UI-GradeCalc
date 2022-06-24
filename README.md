@@ -9,6 +9,17 @@ Design an application similar to the above application.
 
 ## 🍋 Instructions
 
+```
+1. Create a new Github repo
+2. Create a local repo using the command `git init`
+3. Push to the new repo
+
+git remote add origin https://github.com/YourUsername/repoName.git
+git branch -M main
+git push -u origin main
+
+```
+
 1. Create your application and set it up.
 2. Pass a `SafeArea` widget to the `Scaffold` widget.
 3. Let's digest the screenshot, we have a `Column` with 3 things: the `Text` `Grade Calculator`, a `Container` with marks in it, and a `Container` that looks like a button, sketch out your widget tree to match this.
