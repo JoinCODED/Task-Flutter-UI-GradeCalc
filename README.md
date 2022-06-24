@@ -17,7 +17,6 @@ Design an application similar to the above application.
 git remote add origin https://github.com/YourUsername/repoName.git
 git branch -M main
 git push -u origin main
-
 ```
 
 1. Create your application and set it up.
