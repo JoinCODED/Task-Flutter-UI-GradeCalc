@@ -26,19 +26,19 @@ git push -u origin main
 
 💡 Here's the widgets you will need:
 
-[Row](https://api.flutter.dev/flutter/material/Row-class.html).
+- [Row](https://api.flutter.dev/flutter/material/Row-class.html).
 
-[Scaffold](https://api.flutter.dev/flutter/material/Scaffold-class.html).
+- [Scaffold](https://api.flutter.dev/flutter/material/Scaffold-class.html).
 
-[Container](https://api.flutter.dev/flutter/widgets/Container-class.html).
+- [Container](https://api.flutter.dev/flutter/widgets/Container-class.html).
 
-[Column](https://api.flutter.dev/flutter/widgets/Column-class.html).
+- [Column](https://api.flutter.dev/flutter/widgets/Column-class.html).
 
-[SafeArea](https://api.flutter.dev/flutter/widgets/SafeArea-class.html).
+- [SafeArea](https://api.flutter.dev/flutter/widgets/SafeArea-class.html).
 
-[Text](https://api.flutter.dev/flutter/widgets/Text-class.html).
+- [Text](https://api.flutter.dev/flutter/widgets/Text-class.html).
 
-[Border](https://api.flutter.dev/flutter/painting/Border-class.html).
+- [Border](https://api.flutter.dev/flutter/painting/Border-class.html).
 
 💡 hint:
 The color provided in the screenshot is `#7c7ded` in hex code.
